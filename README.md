@@ -8,4 +8,4 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,cs,c,cpp,ts,js,angular,html,css)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,django,spring,dotnet,mysql,postgres,git,docker,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,django,spring,dotnet,mysql,postgres,git,docker)](https://skillicons.dev)
