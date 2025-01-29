@@ -1,7 +1,8 @@
 <a href="">
-<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs?username=tamara-kostova&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=300" />
+<img height=195 src="https://github-readme-stats.vercel.app/api/top-langs?username=tamara-kostova&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=485" />
 </a>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tamara-kostova&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=300&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=tamara-kostova&theme=dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 # Skills:
 
